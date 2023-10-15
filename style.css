@@ -43,6 +43,8 @@
 
 .footnote{
   /* font-size: 34px; */
+  margin-left: 40px;
+  margin-right: 40px;
   color: #fff;
   font-family: 'Josefin Sans';
   font-weight: 300;
